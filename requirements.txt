@@ -1,0 +1,8 @@
+langchain
+pypdf
+langchain_community
+langchain-chroma
+openai
+langchain-openai
+python-dotenv
+matplotlib  
