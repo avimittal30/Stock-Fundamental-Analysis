@@ -6,3 +6,4 @@ openai
 langchain-openai
 python-dotenv
 matplotlib  
+streamlit
