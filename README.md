@@ -5,6 +5,6 @@ It also fetches historical performance data from the company's income statement 
 
 Please view the demo on 
 
-https://huggingface.co/spaces/avimittal30/candidate-recommender
+https://huggingface.co/spaces/avimittal30/fundamental_analysis
 
 
