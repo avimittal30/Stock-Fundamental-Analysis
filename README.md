@@ -3,3 +3,8 @@ A streamlit based application designed to provide fundamental analysis. It takes
 
 It also fetches historical performance data from the company's income statement and the balance sheet.
 
+Please view the demo on 
+
+https://huggingface.co/spaces/avimittal30/candidate-recommender
+
+
