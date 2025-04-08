@@ -15,10 +15,7 @@ This is an interactive **Streamlit** dashboard that performs **fundamental finan
 - 🧠 **LLM Insights**: Get a summarized performance overview using a language model (e.g., OpenAI GPT).
 - 💹 **Financial KPIs**: Visualize key financial metrics from the **Profit & Loss** and **Balance Sheet** statements.
 - 🔍 **Auto Ticker Detection**: Automatically extracts the company name from the PDF and retrieves the ticker symbol.
-- 📈 **Historical Trends**: Plots of Net Income and Current Assets over the last 9 years.
-- 🌙 **Dark Themed UI**: A clean black background with styled tables and bright visuals.
 
----
 
 ## 🧰 Tech Stack
 
