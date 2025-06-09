@@ -29,15 +29,7 @@ This is an interactive **Streamlit** dashboard that performs **fundamental finan
 
 ---
 
-## 📦 Installation
 
-1. **Clone the repo**
-   ```bash
-   git clone https://github.com/your-username/fundamental-analysis-dashboard.git
-   cd fundamental-analysis-dashboard
-
-
-Please view the demo on 
 
 
 
